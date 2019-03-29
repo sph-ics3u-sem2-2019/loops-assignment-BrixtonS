@@ -16,7 +16,9 @@ public class Main {
 		 * hZebart
 		 */
 		Scanner in=new Scanner(System.in);
-
+		String word = in.nextLine();
+		for ()
+		
 	}
 
 }
